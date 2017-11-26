@@ -1,1 +1,0 @@
-# Trabalho-Arquitetura-Simulador-QtSpim-
